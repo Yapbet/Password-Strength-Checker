@@ -21,8 +21,4 @@ python password_checker.py
 - Functions and return values
 - String methods and Boolean values
 - `any()` and generator expressions
-<<<<<<< HEAD
 - Basic password validation and scoring logic
-=======
-- Basic password validation and scoring logic
->>>>>>> a5e0e813a67002baad0f84e1c910e917f4c66c8b
